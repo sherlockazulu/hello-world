@@ -1,2 +1,3 @@
 # hello-world
-Short description
+New description
+The sly quick fox jumped over the lazy dog
